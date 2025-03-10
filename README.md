@@ -3,4 +3,5 @@ Project to design a Voltage-Controlled Audio Preamplifier. We had to implement a
 By integrating analog electronics with control technology, the project delivers an efficient, versatile, and adaptable solution tailored to user requirements.
 # Description
 • Unipolar power supply (VCC=11V). Pressence of voltage is indicated by a LED
-• 
+• Input sinusoidal voltage with an amplitude between 0 and 30 mV and 1kHz frequency.
+• DC voltage for gain control range [0, 1] V.
