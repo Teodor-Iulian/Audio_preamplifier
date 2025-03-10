@@ -15,8 +15,9 @@ By integrating analog electronics with control technology, the project delivers 
 <br>
 
 # PCB design
-<img src="Images/PCB(0).jpg">
+<img src="Images/PCB(0).jpg" width=600>
+<img src="Images/PCB(1).jpg" width=600>
 
 # Voltage control
-<img src="Images/Gain.jpg">
-<img src="Images/Buffer.jpg">
+<img src="Images/Gain.jpg" width=500>
+<img src="Images/Buffer.jpg" width=500>
