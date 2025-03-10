@@ -11,4 +11,4 @@ By integrating analog electronics with control technology, the project delivers 
 • Load resistance 600 Ω.
 <br>
 # Circuit schematic
-images/Schematic.jpg
+<img src="images/screenshot.png">
