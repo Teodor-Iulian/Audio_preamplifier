@@ -13,5 +13,6 @@ By integrating analog electronics with control technology, the project delivers 
 # Circuit schematic
 <img src="Images/Schematic.jpg">
 <br>
+
 # PCB design
 <img src="Images/PCB(0).jpg">
